@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "fluent-plugin-record-serializer"
   spec.version       = Fluent::Plugin::Record::Serializer::VERSION
   spec.authors       = ["IKUTA Masahito"]
-  spec.email         = ["cooldaemon@gmail.com"]
+  spec.email         = ["masahito.ikuta@gu3.co.jp"]
   spec.summary       = %q{Fluentd output filter plugin for serialize record.}
   spec.description   = spec.summary
-  spec.homepage      = "http://github.com/cooldaemon/fluent-plugin-record-serializer"
+  spec.homepage      = "http://github.com/gumi/fluent-plugin-record-serializer"
   spec.license       = "APLv2"
 
   spec.files         = `git ls-files -z`.split("\x0")
