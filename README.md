@@ -2,8 +2,8 @@
 
 [fluentd](http://fluentd.org) filter plugin that serialize a record.
 
-[![Build Status](https://travis-ci.org/cooldaemon/fluent-plugin-record-serializer.svg?branch=master)](https://travis-ci.org/cooldaemon/fluent-plugin-record-serializer)
-[![Code Climate](https://codeclimate.com/github/cooldaemon/fluent-plugin-record-serializer/badges/gpa.svg)](https://codeclimate.com/github/cooldaemon/fluent-plugin-record-serializer)
+[![Build Status](https://travis-ci.org/gumi/fluent-plugin-record-serializer.svg?branch=master)](https://travis-ci.org/gumi/fluent-plugin-record-serializer)
+[![Code Climate](https://codeclimate.com/github/gumi/fluent-plugin-record-serializer/badges/gpa.svg)](https://codeclimate.com/github/gumi/fluent-plugin-record-serializer)
 
 If following record is passed:
 
@@ -51,6 +51,6 @@ In v0.10, you can use record_serializer output to emulate filter.
 ## Copyright
 
 - Copyright
-  - Copyright(C) 2015- IKUTA Masahito (cooldaemon)
+  - Copyright (C) 2015- gumi Inc.
 - License
   - Apache License, Version 2.0
